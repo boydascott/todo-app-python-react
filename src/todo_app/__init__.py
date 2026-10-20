@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from todo-app!")
+from todo_app import models
